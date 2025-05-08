@@ -66,4 +66,4 @@ jupyter notebook
 
 ---
 
-**Fonte dos dados**: [INEP - Indicadores Educacionais]([https://www.gov.br/inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-financeiros-educacionais))
+**Fonte dos dados**: [INEP – Indicadores Financeiros Educacionais](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/indicadores-financeiros-educacionais)
